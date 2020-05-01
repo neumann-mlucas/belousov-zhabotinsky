@@ -7,7 +7,7 @@
 **The python package you never knew you needed!**
 Now you can appreciate all the glory of the Belousov-Zhabotinsky reaction from the comfort of your console window in a state of the art *ASCII art* rendering. *Your life will never be the same!*
 
-This a little python script I made for a class sometime ago. You can play around with the equations coefficients and rendering parameters with command line arguments (see usage). Besides the **BZ** equation there's also the **FitzHugh-Nagumo** equation (for Turing patterns), **Gray-Scoot** and **Cahn-Hilard** equation (simulates phase separation).
+This a little python script I made for a class sometime ago. You can play around with the equations coefficients and rendering parameters with command line arguments (see usage). Besides the **BZ** equation there's also the **FitzHugh-Nagumo** (for Turing patterns), **Gray-Scoot** and **Cahn-Hilard** (simulates phase separation) equations.
 
 ## Theory
 
@@ -75,5 +75,6 @@ You can exit the program by pressing any key
 
 - [x] Fix Gray-Scott
 - [x] Make it faster
+
 
 *My First GitHub project; HOORAY!*
